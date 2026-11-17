@@ -1,0 +1,21 @@
+# Archivos temporales y de compilación en emu8086 / DOSBox
+*.OBJ
+*.obj
+*.EXE
+*.exe
+*.COM
+*.com
+*.MAP
+*.map
+*.BIN
+*.bin
+
+# Temporales de editores
+*.bak
+*.BAK
+*~
+*.swp
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
